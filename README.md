@@ -1,6 +1,6 @@
-# Horizon Food - Online Food Delivery Website
+# QuickBites - Online Food Delivery Website
 
-Welcome to Horizon Food, your go-to platform for ordering delicious meals and having them delivered right to your table. This web application is built using HTML, CSS, JavaScript, PHP, and MySQL to provide a seamless and enjoyable food ordering experience.
+Platform for ordering delicious meals and having them delivered right to your table. This web application is built using HTML, CSS, JavaScript, PHP, and MySQL to provide a seamless and enjoyable food ordering experience.
 
 Home Page
 ![Foodie Express Screenshot](./website_pics/home.jpeg)
@@ -8,38 +8,6 @@ Home Page
 Admin Panel
 ![Foodie Express Screenshot](./website_pics/admin_panel.png)
 
-## HOW TO RUN
-Follow these simple steps to set up and run the Horizon food website locally on your machine.
-
-### Prerequisites
-
-- Just need to download one software:
-- XAMPP (https://www.youtube.com/watch?v=-f8N4FEQWyY)
-
-
-### Installation
-
-1. Clone the repository to your local machine:
-
-    ```bash
-    git clone https://github.com/Daniyal-Murtaza/horizon-food.git
-    ```
-2. Put the cloned repository folder in htdocs. (htdocs is where all of your local projects go. htdocs folder location: Windows - `C:\Xampp\htdocs`. Mac - `/opt/lampp/htdocs`.)
-
-3. Open XAMPP and start `Apache` and `MySQL`.
-
-4. Open URL:
-    ```bash
-    http://www.localhost/phpmyadmin/
-    ```
-
-5. Create a new MySQL database with name `food_db` and import the provided `food_db.sql` file to set up the database.
-
-6. Open your web browser and navigate to  
-    ```bash
-    http://localhost/horizon-food
-    ```
-to start using the website.
 
 ## Features for User
 
