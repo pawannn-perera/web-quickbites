@@ -1,14 +1,5 @@
 # QuickBites - Online Food Delivery Website
 
-Platform for ordering delicious meals and having them delivered right to your table. This web application is built using HTML, CSS, JavaScript, PHP, and MySQL to provide a seamless and enjoyable food ordering experience.
-
-Home Page
-![Foodie Express Screenshot](./website_pics/home.jpeg)
-
-Admin Panel
-![Foodie Express Screenshot](./website_pics/admin_panel.png)
-
-
 ## Features for User
 
 - **User Authentication:** Create an account, log in, and manage your profile.
