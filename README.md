@@ -20,3 +20,20 @@
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
+
+## 👥 Contributors
+
+This project was developed with the support and collaboration of:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/upeka99">
+        <img src="https://github.com/upeka99.png" width="100px;" alt="Upeka Sandaruwan"/>
+        <br />
+        <sub><b>Upeka Sandaruwan</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+A big thank you to everyone for their hard work and contributions!
